@@ -63,7 +63,7 @@ export function Contact() {
               </div>
               <div>
                 <div className="text-xs text-muted-foreground">Email</div>
-                <div className="font-medium">hello@alexcarter.dev</div>
+                <div className="font-medium">socratesnwankwor09@gmail.com</div>
               </div>
             </a>
             <a href="https://wa.me/10000000000" target="_blank" rel="noreferrer" className="glass rounded-2xl p-5 flex items-center gap-4 hover:shadow-glow transition-shadow">
@@ -72,7 +72,7 @@ export function Contact() {
               </div>
               <div>
                 <div className="text-xs text-muted-foreground">WhatsApp</div>
-                <div className="font-medium">+1 (000) 000-0000</div>
+                <div className="font-medium">+234 816-324-6939</div>
               </div>
             </a>
             <div className="glass rounded-2xl p-5">
