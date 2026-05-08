@@ -19,7 +19,7 @@ export function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold leading-[1.05] mb-6">
-            Hi, I'm <span className="text-gradient">Alex Carter</span>
+            Hi, I'm <span className="text-gradient">Socrates Nwankwor</span>
             <br />
             Full-Stack Developer
           </h1>
@@ -33,11 +33,6 @@ export function Hero() {
           </p>
 
           <div className="flex flex-wrap gap-3 justify-center mb-10">
-            <Button asChild variant="hero" size="lg">
-              <a href="#projects">
-                View Projects <ArrowRight className="w-4 h-4" />
-              </a>
-            </Button>
             <Button asChild variant="glass" size="lg">
               <a href="#contact">Contact Me</a>
             </Button>
@@ -67,13 +62,7 @@ export function Hero() {
             >
               <Linkedin className="w-5 h-5" />
             </a>
-            <a
-              href="#"
-              className="w-11 h-11 grid place-items-center rounded-lg glass hover:text-primary transition-colors"
-              aria-label="Twitter"
-            >
-              <Sparkles className="w-5 h-5" />
-            </a>
+          
           </div>
         </div>
 
